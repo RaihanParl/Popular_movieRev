@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/3ce1b1c4033561179ecea0aa9f32275f9d275e87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18130c338ed485af9771d166f15f5a1541c41409/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/99cedd23770cd638b80b9919eba3c8dfd609de23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_915732af39982e58c1647981752dea0977462b22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/e51ee409cd32e34d6ecfa93a048b19987d50ed1c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc3c06eed8ea733592884d58966667f964749bd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/e3c23e2fc0317675b85b8fff9fdfa5d3b39f7912/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6af43d250ee23662de68f50a7a1df836a092d9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/ed44bbfa217bc736e360a54338ddb92ce8dd896c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a82d2cb6802f07d39ed114520be61084a26a1662/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/617822fcc243393e3182737db48a426bacebc2a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_975f4fcf08b8c9dbb4ffb8b2772515554f072e52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/de44b26c6182fc2918bb03c3e491b68b9f7f7326/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd522a0f76f308b5d1420b3b72dd786a98b32f6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/d445996803549dd65b9cda4ba22b5fd40bbffcef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4cb918ef021e9207003214d1d36f47d9a63d869d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_36aea58734aa23c0a599a9d52f17961edc02af4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/4f4b490782f943f6af1fea697883fd2d302cbe7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c53bb2fb9645e6f5f82224511524cd4cf99d6f72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/7fa260e450d070f700c8dfe51ae98c86ee1982ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c364309222c0a5ce22cbbe78b5fdf63ef3fcea00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/6bc787f4a16c0562f2cd62e8ce5161170ec99e1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d625296e59942391f20542efd8d7dfcd0c5c6812/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/9edb59b93bd57d39e3ba9f7df98e7a13e476acca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f539a2da1872bc1f779dbee262b4fec6f2c3584f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/9ede468a3d6a1ad3b68fcee6143a05b0969cb622/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd7c90fae21cd3c4ed52e31a66d24e850197b7c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/eaf67e48715448eff802576ddf74b81a3fe9218d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_794d8103967f11966c0e1b360340aa2b25cb00c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7bade443953c2a6efe3fad6d4f26954010c3806">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f37fc1e67af00cc5fb5da90aab5171153da74811/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/84313def35c79a1fe88224be7fd3375903b82d94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db124220e520edff3c7ada46a067909db408285c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9e68bf209632bc6eb364cafbb73b303300be438f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/64e003bdf7c25c845ae849c72e0a1a1bd3d485d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c3aa5e7ff53ce74676b9478714176a2c10df22f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/a9403e6d2ce289c0e76372277bbf92aa97930682/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_380d3d47ee6f2c863d65019f0ad0c4c07ec124d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/074f133a3b7099da921594b3d9883b78e9f739ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fce9343f0d9993c8c364f9d1cb2cdbb55c5fb4d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/9faa05d978f479031b1f3d3260f0b0978b75f8f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_935127ed083ae92b1558a56de61a8681fae9f5f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.8.1_fc265e02c2f4cfb19af941242f14fb1c7e76bb69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/99a705f10b70cd525c25c8fc77978cc705bfb399/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc9a6fde3878e749fc6d48ccec48267b31fd2977/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/994cf4c29ad1cff7bbeb3d48dad536419f5d08fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b79f2d4c1950e313a3a5386dddedec7f0b04c84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/47d7d60ba52838e028a71e1d88658cac9d27530d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2cbc099f6c64dc2e9761867401dcef6c1e3931d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/27dc4196acfa4cbd15688c60695f058718be3cb1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd5e4db3f22faded117251d64ca2f99b1df20818/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/You/.android/build-cache/150acb19691100c0574737a34a9b45074c827a79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/You/AndroidStudioProjects/CLTO-master-84e2437089356db258479bb83f1b55c659c61689/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1b702113fbfe53ee1209f55d81020d8f169a589/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "332829659581",
+    "firebase_url": "https://clto-b8da6.firebaseio.com",
+    "project_id": "clto-b8da6",
+    "storage_bucket": "clto-b8da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332829659581:android:076fa5a27da1707c",
+        "android_client_info": {
+          "package_name": "com.bismillah.clto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332829659581-vvp90np4lm6a9aacaopd14tahln08lcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCraVMPFyzVU12O_eANsrMjVzR0rI4TF9g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
